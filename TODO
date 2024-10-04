@@ -1,0 +1,10 @@
+검색창에 한글자라도 쳐지면 바로바로 검색
+상단 내용인것 같음
+사진 나오고 관련 정보들 출력
+
+사용자 정보 출력
+https://api.github.com/users/{username}
+사용자 레파지토리 리스트
+https://api.github.com/users/{username}/repos
+
+사용자를 발견하지 못했을 경우 없는 사용자라는 알림
